@@ -19,4 +19,4 @@ run_file : run_file.c
 	$(CC) -o run_file run_file.c $(CFLAGS)
 
 clean :
-	rm utils.o find_min_max.o sequential_min_max parallel_min_max
+	rm utils.o find_min_max.o sequential_min_max parallel_min_max run_file
