@@ -1,0 +1,9 @@
+# Бинарники
+deadlock
+factorial
+mutex_lock
+mutex_nolock
+
+# Временные/резервные копии
+*.o
+*.out
